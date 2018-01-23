@@ -1,4 +1,6 @@
 
 public class Test {
-dsfsdfsdf sdfsd fsdfdsf dsf sdfsdfsdfsdfsdfsdfsdfsdfsdfsdfd
+public static void main(String ar[]){
+	System.out.println("Test");
+}
 }
